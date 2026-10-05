@@ -1,0 +1,6 @@
+pymysql
+pymongo
+matplotlib
+wordcloud
+neo4j
+streamlit

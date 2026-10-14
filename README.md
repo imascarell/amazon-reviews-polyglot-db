@@ -2,6 +2,7 @@
 
 Final project for **Databases** (iMAT, ICAI, Universidad Pontificia Comillas, 2025/26).
 Authors: **Yago Vallarino Fernández-Cavada** and **Ignacio Mascarell Agúndez**.
+Group project (2 members).
 
 A hybrid data system to analyse Amazon review data across several product categories, splitting each review between the store that suits it best and using Python as the ETL bridge.
 
